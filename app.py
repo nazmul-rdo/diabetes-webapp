@@ -118,4 +118,4 @@ if st.button('পূর্বাভাস দেখুন (Predict)'):
 # Footer
 # =========================
 st.markdown('---')
-st.caption('AI-based Diabetes Prediction System | University Project')
+st.caption('AI-based Diabetes Prediction System')
